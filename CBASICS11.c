@@ -1,4 +1,4 @@
-// WAP to enter a number and print its perfect no. or not
+//WAP to enter a number and print its perfect no. or not
 
 #include <stdio.h>
 int main(int argc, char const *argv[])
