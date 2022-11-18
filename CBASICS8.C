@@ -1,4 +1,4 @@
-// Program to print factor of two numbers
+//Program to print factor of two numbers
 
 #include <stdio.h>
 
