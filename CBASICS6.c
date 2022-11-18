@@ -1,4 +1,4 @@
-// WAP to print sum and avg of all even numbers between 1 to n.
+//WAP to print sum and avg of all even numbers between 1 to n.
 
 #include <stdio.h>
 
