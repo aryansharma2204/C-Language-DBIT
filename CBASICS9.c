@@ -1,4 +1,4 @@
-// Program to print HCF and LCM of two numbers
+//Program to print HCF and LCM of two numbers
 
 #include <stdio.h>
 int main() {
