@@ -1,4 +1,4 @@
-//C program to check whether the triangle is equilateral, isosceles or scalene −
+//C program to check whether the triangle is equilateral, isosceles or scalene 
 
 #include<stdio.h>
 int main(){
