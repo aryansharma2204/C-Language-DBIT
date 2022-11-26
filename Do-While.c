@@ -15,21 +15,19 @@ return 0;
 int main(int argc, char const *argv[])
 {   
     int a;
-    char y;
+    char choice;
     do {
         printf("Enter an Integer:\n");
         scanf("%d", &a);
         if(a%2==0) {
-            printf(a, "%d is even");
+            printf("is even\n");
         }
         else {
-            printf(a, "%d is odd");
+            printf("is odd");
         }
-        printf("Do you want to continue?");
-        scanf("%d", a);
+        printf("\nPress y to continue the loop: ");
+        scanf(" %c", &choice); //Note the Space, This will clear out all white space characters from stdin before reading data.
     }
-    while(char); {
-
-    }
+    while(choice == 'y');
     return 0;
 }
