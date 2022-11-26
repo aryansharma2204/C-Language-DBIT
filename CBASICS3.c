@@ -2,10 +2,13 @@
 #include<stdio.h>
 int main() {
     int x, y;
+
     printf("Prefix Example:\n");
     printf("Enter a Number");
     scanf("%d", &x);
+
     y = ++x + ++x + ++x;
+
     printf("\n y = %d", y);
     printf("\n x = %d", x);
     return(0);
