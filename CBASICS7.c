@@ -5,6 +5,7 @@
 int main(int argc, char const *argv[])
 {
     int num, i;
+    
     printf("Enter a Number: ");
     scanf("%d", &num);
 
