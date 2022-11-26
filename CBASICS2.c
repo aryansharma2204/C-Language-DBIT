@@ -2,9 +2,12 @@
 #include<stdio.h>
 int main() {
     int a, b;
+
     printf("Enter a Number");
     scanf("%d", &a);
+
     b = a++ + a++ + a++;
+
     printf("\n a = %d", a);
     printf("\n b = %d", b);
     return(0);
