@@ -1,4 +1,4 @@
-//WAP to enter 10 numbers and print the greatest one
+//WAP to enter 10 integers and print the greatest one
 
 #include <stdio.h>
 int main(int argc, char const *argv[])
