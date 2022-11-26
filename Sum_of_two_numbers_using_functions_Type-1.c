@@ -2,10 +2,10 @@
 
 #include <stdio.h>
 
-void sum();
+void sum(); //Function Prototype
 int main(int argc, char const *argv[])
 {
-    sum();
+    sum(); //Function call, i.e. inside main()
     return 0;
 }
 void sum() {
