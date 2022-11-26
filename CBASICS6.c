@@ -6,6 +6,7 @@ int main(int argc, char const *argv[])
 {
     int i, c = 0, n, sum = 0; 
     float avg;
+    
     printf("Enter the Number:\n");
     scanf("%d", &n);
     
